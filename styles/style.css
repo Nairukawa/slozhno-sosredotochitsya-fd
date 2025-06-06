@@ -16,7 +16,7 @@
   padding: 10px;
 }
 
-.header__container {
+.header__section {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -432,7 +432,7 @@
   grid-template-rows: 1fr 2fr 1fr;
 }
 
-.header__container {
+.header__section {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 1fr;
