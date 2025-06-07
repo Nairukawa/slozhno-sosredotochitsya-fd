@@ -4,6 +4,8 @@
 */
 :root {
   --image-bg-page: url("../images/cover-image-dark.png");
+  --color-bg-primary: #000028;
+  --color-bg-secondary: #ff0070;
   --accent-color: #000028;
   --color-text: #f1b2ce;
   --color-text-primary: #ff0070;
