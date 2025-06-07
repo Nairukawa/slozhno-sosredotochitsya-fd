@@ -77,10 +77,6 @@
   text-align: center;
 }
 
-.header__theme-menu-button {
-  border-color: transparent;
-}
-
 .header__theme-menu-button:focus {
   border-color: var(--color-border);
 }
@@ -255,7 +251,7 @@
 .main__link {
   text-shadow: 2px 2px 0 var(--color-bg-secondary);
   text-decoration: none;
-  border: 1px solid transparent; 
+  border: 1px solid transparent;
  }
 
  .main__link:hover {
