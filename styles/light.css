@@ -17,6 +17,7 @@
   --color-text-primary: #353430;
   --color-text-secondary: #ffc2e6;
   --color-border: #353430;
+  --color-border-transparent: rgb(53, 52, 48, 0.5);
 }
 
 .theme-light .page {
@@ -31,11 +32,13 @@
 @media (prefers-color-scheme: light) {
   :root {
     --color-bg-primary: #fff1f7;
+    --color-bg-secondary: #ff8dcb;
     --accent-color: #353430;
     --image-bg-page: url("../images/cover-image-light.png");
     --color-text: #353430;
     --color-text-primary: #353430;
     --color-text-secondary: #ffc2e6;
     --color-border: #353430;
+    --color-border-transparent: rgb(53, 52, 48, 0.5);
 }
 }

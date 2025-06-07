@@ -17,6 +17,7 @@
   --color-text-primary: #ff0070;
   --color-text-secondary: #db00ff;
   --color-border: #ff0070;
+  --color-border-transparent: rgb(255, 0, 112, 0.5);
 }
 
 .theme-dark .page {
