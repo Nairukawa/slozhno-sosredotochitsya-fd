@@ -25,7 +25,7 @@
   --font-size-accent: 18px;
 }
 
-.theme-light .header__rec {
+.theme-light .header__rec   {
   opacity: 0;
 }
 
@@ -40,5 +40,9 @@
     --color-text-secondary: #ffc2e6;
     --color-border: #353430;
     --color-border-transparent: rgb(53, 52, 48, 0.5);
+}
+
+  .header__rec {
+    opacity: 0;
 }
 }
